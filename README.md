@@ -1,0 +1,1 @@
+This project is a simple yet powerful calculator application developed in Java. The goal of this project is to provide a basic arithmetic calculator that is easy to use and understand. The application is designed for individuals seeking a straightforward tool for everyday calculation tasks.
